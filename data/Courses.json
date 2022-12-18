@@ -1,0 +1,62 @@
+[
+    {
+      "id": "63575e9dc5361e37b17cf922",
+      "picture": "https://richestsoft.com/blog/wp-content/uploads/2019/02/Android-app-development.jpg",
+      "title": "Android Development",
+      "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+      },
+      "details": "Android development is the process by which applications are created for devices running the Android operating system. Google states that Android apps can be written using Kotlin, Java, and C++ languages using the Android software development kit (SDK), while using other languages is also possible. All non-Java virtual machine (JVM) languages, such as Go, JavaScript, C, C++ or assembly, need the help of JVM language code, that may be supplied by tools, likely with restricted API support."
+    },
+    {
+      "id": "63575e9dfd00d55fac3deaf5",
+      "picture": "https://apps400.com/wp-content/uploads/2017/09/Android-AppMarketing.jpg",
+      "title": "Android App Marketing",
+      "rating": {
+        "number": 5,
+        "badge": "Excellent"
+      },
+      "details": "Mobile app marketing takes the user through every stage of the marketing funnel – from the moment they first hear of your app to being a loyal user. Sometimes, the user will go back and forth from one stage to another, which is why the whole process is also referred to as the mobile engagement loop."
+    },
+    {
+      "id": "63575e9dec7d874723e9cfed",
+      "picture": "https://www.studiobilardoeprosperi.it/wp-content/uploads/2016/11/digital-strategy-653x435.jpg",
+      "title": "Digital Strategy",
+      "rating": {
+        "number": 4.3,
+        "badge": "Excellent"
+      },
+      "details": "What is digital strategy? In essence, the term refers to a plan that employs digital initiatives to achieve company goals. Seemingly simple, a digital business strategy is anything but, and requires expertise and experience to implement successfully."
+    },
+    {
+      "id": "63575e9d2e23cf6c1ef85391",
+      "picture": "https://mediablog.cdnpk.net/sites/9/2021/12/An-Introduction-To-Graphic-Design-Part-1.jpg",
+      "title": "Graphics Design",
+      "rating": {
+        "number": 5,
+        "badge": "Excellent"
+      },
+      "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    },
+    {
+      "id": "63575e9de1f6605f834c41fc",
+      "picture": "https://www.softwaretestinghelp.com/wp-content/qa/uploads/2021/05/GIMP.jpg",
+      "title": "Photo Editing",
+      "rating": {
+        "number": 4,
+        "badge": "Excellent"
+      },
+      "details": "For the uses, cultural impact, and ethical concerns of image editing, see Photo manipulation. For the process of culling and archiving images, see Digital asset management. For the restoration of physical photographs using digital techniques, see Digital photograph restoration."
+    },
+    {
+      "id": "63575e9d147b00d6b442877c",
+      "picture": "https://www.techfunnel.com/wp-content/uploads/2018/02/YouTube-Video-Marketing-Strategies-to-Follow.jpg",
+      "title": "YouTube Marketing",
+      "rating": {
+        "number": 4.5,
+        "badge": "Excellent"
+      },
+      "details": "Engage with your most valuable audiences on the world's largest video platform. Share your story. Introduce your business with video advertising on YouTube. No Budget Minimums. Reach the Right Customers. Attract New Customers. Pick Your Budget. Make A Video Ad."
+    }
+  ]
